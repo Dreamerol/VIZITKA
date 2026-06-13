@@ -177,7 +177,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -197,7 +197,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -226,7 +226,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br>
-
 
 
 
@@ -273,7 +272,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 <br>
 <br>
-<br>
+
 
 
 
