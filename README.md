@@ -312,8 +312,7 @@ width="320" height="220">
 <img 
   src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!!!_VIZITKA.JPG"
   alt="Vizitka"
-  width="100%"
-/>
+  width="100%"/>
 
 </div>
 
