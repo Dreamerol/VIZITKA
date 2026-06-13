@@ -226,7 +226,6 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br>
 
 
 
@@ -268,6 +267,8 @@ width="320" height="220">
 
 
 <br>
+<br>
+
 <br>
 
 
@@ -328,6 +329,7 @@ width="320" height="220">
 
 
 <br><br>
+<br>
 
 
 
@@ -349,6 +351,7 @@ width="320" height="220">
 
 
 <br><br>
+<br>
 
 
 
