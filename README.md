@@ -10,9 +10,11 @@
      𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
 </h1>
 
+
 <h2 align="center">
 Data & Software Engineer • Applied ML ∫ data → systems ✨
 </h2>
+
 
 
 <div align="center">
@@ -78,6 +80,8 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 </a>
 
 </p>
+
+
 
 
 
@@ -319,8 +323,6 @@ width="320" height="220">
 
 
 
-
-
  
 
  <h2 align="center"> 
@@ -422,9 +424,11 @@ width="320" height="220">
 
 
 
+
 <br>
 <br>
 <br>
+
 
 
 
@@ -444,8 +448,10 @@ width="320" height="220">
 
 
 
+
 <br>
 <br>
+
 
 
 
@@ -476,6 +482,8 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br>
+
+
 
 
 ---
