@@ -314,7 +314,7 @@ width="320" height="220">
 
 <td align="center">
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-<b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</b>
+<b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</b>
 </a>
 </td>
 
