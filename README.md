@@ -212,6 +212,123 @@ width="320" height="220">
 
 
 
+
+---
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+<table align="center">
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</b>
+</td>
+
+</tr>
+
+</table>
+
+
+
+<br>
+<br>
+
+
+
+
+
+<table align="center">
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+<b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<b>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<b>𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<b>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+<b>𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</b>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+
+</div>
+
+
+
+<br>
+<br>
+<br>
+
+
+---
+
+
+
+
+
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
