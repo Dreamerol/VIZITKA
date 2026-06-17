@@ -200,27 +200,6 @@ width="320" height="220">
 
 
 
-<br><br>
-
-
-
-
-<div align="center">
-
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
-    width="100%"
-    style="border-radius:18px;" />
-
-</div>
-
-
-
-
-<br><br>
-
-
-
 
 
 
@@ -345,6 +324,24 @@ width="320" height="220">
 <br>
 
 
+<br><br>
+
+
+
+
+<div align="center">
+
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
+    width="100%"
+    style="border-radius:18px;" />
+
+</div>
+
+
+
+
+<br><br>
 
 
  
