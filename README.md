@@ -307,7 +307,7 @@ width="320" height="220">
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCE">
-<b>𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩</b>
+<b>𝗣𝗬𝗧𝗛𝗢𝗡</b>
 </a>
 </td>
 
