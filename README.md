@@ -98,6 +98,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 <br>
 <br>
+<br>
 
 
 
@@ -135,11 +136,11 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 </div>
 
 
-<br>
 
 
 
-<br><br>
+<br><br><br>
+
 
 
 
@@ -156,7 +157,7 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 
 
-<br><br>
+<br><br><br>
 
 
 
