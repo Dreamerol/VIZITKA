@@ -87,7 +87,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
   <img src="https://img.shields.io/badge/Clojure-8A2BE2?style=for-the-badge&logo=clojure&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Data Analysis" src="https://img.shields.io-badge/Data_Analysis-4F8CFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-6C63FF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-6C63FF?style=for-the-badge"/>
 
   <img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
