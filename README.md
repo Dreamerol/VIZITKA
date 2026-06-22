@@ -73,29 +73,9 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br><br>
-
-
-
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
-  alt="Vizitka"
-  width="100%"  
-    />
-
-</div>
-
-
-
 
 
 <br><br>
-
-
-
-
 
 
 
@@ -334,6 +314,29 @@ width="320" height="220">
 
 </div>
 
+
+
+
+
+<br><br>
+
+
+
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
+  alt="Vizitka"
+  width="100%"  
+    />
+
+</div>
+
+
+
+
+
+<br><br>
 
 
 
