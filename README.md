@@ -97,7 +97,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 <h2 align="center">
 <a href="https://github.com/Dreamerol/CARDFOLIO">
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗳𝗼𝗰𝘂𝘀𝗲𝗱 𝗼𝗻 𝗠𝗟 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗣𝗜𝘀 𝗮𝗻𝗱 𝗘𝗧𝗟<br>
-𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗣𝘆𝗧𝗼𝗿𝗰𝗵 • 𝗗𝗷𝗮𝗻𝗴𝗼 • 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
+
 </a>
 </h2>
 
