@@ -9,14 +9,16 @@
 </div>
 
 
+<div align="center">
+
+<h1 style="font-size:42px; line-height:1.2;">
+🟢 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 
+</h1>
 
 
-
-<h2 align="center">
-Data & Software Engineer • Applied ML ∫ data → systems ✨
-</h2>
-</div>
-
+  <h2 align="center">
+ Backend Engineering • Data Engineering • Applied Machine Learning
+  </h2>
 
 
 
