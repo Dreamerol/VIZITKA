@@ -119,7 +119,7 @@
 
   <img src="https://img.shields.io/badge/APIs-0A9396?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-2F4F4F?style=for-the-badge&logo=git&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Linux-4B5563?style=for-the-badge&logo=linux&logoColor=white"/>
 
