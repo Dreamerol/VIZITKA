@@ -133,16 +133,22 @@
 
 
 
-## 💼 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
+<div align="center">
 
-Built backend systems, distributed integrations, and data-driven platform services.
-Worked with Java, Clojure, and ClojureScript to build and improve scalable software solutions.
+<h2>
+💼 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
+</h2>
 
-* Developed backend services and reusable platform components
+</div>
+
+Developed backend systems, distributed integrations, and data-driven platform services.  
+Engineered scalable software solutions using **Java**, **Clojure**, and **ClojureScript**.
+
+* Designed and implemented backend services and reusable platform components
 * Built and maintained REST API integrations for distributed systems
-* Implemented data processing pipelines and automation workflows
-* Applied functional programming principles to scalable, maintainable software
-* Collaborated through Git, code reviews, debugging, testing, and Agile development
+* Developed data processing pipelines and automation workflows
+* Applied functional programming principles to create scalable, maintainable software
+* Collaborated through Git, code reviews, debugging, testing, and Agile development practices
 
 
 
