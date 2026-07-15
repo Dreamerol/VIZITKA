@@ -318,14 +318,12 @@ width="320" height="220">
 
 
 
-
-
 <table align="center">
 
 <tr>
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SDA555.png"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SDA333.jpg"
 width="320" height="220">
 </a>
 <br><b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
@@ -333,7 +331,7 @@ width="320" height="220">
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SDA333.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SDA555.png"
 width="320" height="220">
 </a>
 <br><b>𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</b>
