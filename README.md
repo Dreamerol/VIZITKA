@@ -135,7 +135,8 @@
 
 ## 💼 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 
-Contributed to backend systems, distributed integrations, and data-driven platform services within a product engineering environment using **Java**, **Clojure**, and **ClojureScript**.
+Contributed to backend systems, distributed integrations, and data-driven platform services 
+within a product engineering environment using **Java**, **Clojure**, and **ClojureScript**.
 
 * Developed backend services and reusable platform components
 * Built and maintained REST API integrations for distributed systems
