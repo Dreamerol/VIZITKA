@@ -132,10 +132,6 @@
 <br>
 
 
----
-
-
-<br>
 
 
 <div align="center">
@@ -144,10 +140,10 @@
 💼 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 </h2>
 
-<p>
+<h2>
 Developed backend systems, distributed integrations, and data-driven platform services.<br>
 Engineered scalable software solutions using <b>Java</b>, <b>Clojure</b>, and <b>ClojureScript</b>.
-</p>
+</h2>
 
 <p>
 Designed and implemented backend services and reusable platform components.<br>
