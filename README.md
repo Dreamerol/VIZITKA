@@ -156,11 +156,6 @@ Collaborated through Git, code reviews, debugging, testing, and Agile practices.
 </div>
 
 
-
-<br>
-
----
-
 <br><br>
 
 
