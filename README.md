@@ -108,11 +108,12 @@
 
   <img alt="APIs" src="https://img.shields.io/badge/APIs-4F8CFF?style=for-the-badge"/>
 
-  <img alt="Git" src="https://img.shields.io/badge/Git-343A40?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-2B2D42?style=for-the-badge&logo=git&logoColor=white"/>
 
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-343A40?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-2B2D42?style=for-the-badge&logo=linux&logoColor=white"/>
 
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-8A2BE2?style=for-the-badge"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Mathematical_Modeling-9D4EDD?style=for-the-badge"/>
+
 
 </p>
 
