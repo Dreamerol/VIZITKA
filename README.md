@@ -117,6 +117,37 @@
 
 
 
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
+    width="100%"
+    alt="Portfolio Banner"
+    style="border-radius:18px;" 
+  />
+</a>
+
+</div>
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
 <div align="center">
 
 # 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜 ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
