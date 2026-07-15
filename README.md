@@ -333,7 +333,7 @@ width="320" height="220">
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="(https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZCPP8.JPG"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZCPP8.JPG"
 width="320" height="220">
 </a>
 <br><b>𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</b>
