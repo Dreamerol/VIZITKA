@@ -129,10 +129,13 @@
 
 
 
-<br><br>
+<br>
 
 
 ---
+
+
+<br>
 
 
 <h2>
@@ -151,7 +154,9 @@ Engineered scalable software solutions using **Java**, **Clojure**, and **Clojur
 * Collaborated through Git, code reviews, debugging, testing, and Agile development practices
 
 
+<br>
 
+---
 
 <br><br>
 
