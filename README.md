@@ -119,7 +119,7 @@
 
 <div align="center">
 
-## 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜 ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
+# 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜 ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
 
 ## **Backend Engineering • Data Engineering • Applied Machine Learning**
 
@@ -145,13 +145,13 @@ Developed backend systems, distributed integrations, and data-driven platform se
 Engineered scalable software solutions using <b>Java</b>, <b>Clojure</b>, and <b>ClojureScript</b>.
 </h2>
 
-<p>
+<h2>
 Designed and implemented backend services and reusable platform components.<br>
 Built and maintained REST API integrations for distributed systems.<br>
 Developed data processing pipelines and automation workflows.<br>
 Applied functional programming principles to create scalable, maintainable software.<br>
 Collaborated through Git, code reviews, debugging, testing, and Agile development practices.
-</p>
+</h2>
 
 </div>
 
