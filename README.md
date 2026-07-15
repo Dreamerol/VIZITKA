@@ -325,7 +325,7 @@ width="320" height="220">
 <tr>
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/zzzzzDATA222.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/DATA789.JPG"
 width="320" height="220">
 </a>
 <br><b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
