@@ -13,13 +13,10 @@
 </div>
 
 
+
   <h2 align="center">
  Backend Engineering • Data Engineering • Applied Machine Learning
   </h2>
-
-
-
-
 
 
 
@@ -41,6 +38,7 @@
 </a>
 
 </div>
+
 
 
 
@@ -239,6 +237,7 @@ width="320" height="220">
 </tr>
 
 </table>
+
 
 </div>
 
@@ -566,6 +565,8 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
       alt="Mihaela Koseva Banner"
     />
   </a>
+
+  
 </div>
 
 
