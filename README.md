@@ -104,15 +104,15 @@
 
   <img alt="OOP" src="https://img.shields.io/badge/OOP-6C63FF?style=for-the-badge"/>
 
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+ <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
 
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-4F8CFF?style=for-the-badge"/>
+<img alt="APIs" src="https://img.shields.io/badge/APIs-4F8CFF?style=for-the-badge"/>
 
-  <img alt="Git" src="https://img.shields.io/badge/Git-2B2D42?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white"/>
 
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-2B2D42?style=for-the-badge&logo=linux&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-4F8CFF?style=for-the-badge&logo=linux&logoColor=white"/>
 
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Mathematical_Modeling-9D4EDD?style=for-the-badge"/>
+<img alt="Mathematical Modeling" src="https://img.shields.io/badge/Mathematical_Modeling-9D4EDD?style=for-the-badge"/>
 
 
 </p>
