@@ -121,9 +121,9 @@
 
 # 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜 ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
 
-# **Backend Engineering • Data Engineering • Applied Machine Learning**
+## **Backend Engineering • Data Engineering • Applied Machine Learning**
 
-# **Python • SQL • Java • C++ • Clojure**
+## **Python • SQL • Java • C++ • Clojure**
 
 </div>
 
