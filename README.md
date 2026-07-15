@@ -138,20 +138,27 @@
 <br>
 
 
+<div align="center">
+
 <h2>
 💼 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 </h2>
 
+<p>
+Developed backend systems, distributed integrations, and data-driven platform services.<br>
+Engineered scalable software solutions using <b>Java</b>, <b>Clojure</b>, and <b>ClojureScript</b>.
+</p>
+
+<p>
+Designed and implemented backend services and reusable platform components.<br>
+Built and maintained REST API integrations for distributed systems.<br>
+Developed data processing pipelines and automation workflows.<br>
+Applied functional programming principles to create scalable, maintainable software.<br>
+Collaborated through Git, code reviews, debugging, testing, and Agile development practices.
+</p>
+
 </div>
 
-Developed backend systems, distributed integrations, and data-driven platform services.  
-Engineered scalable software solutions using **Java**, **Clojure**, and **ClojureScript**.
-
-* Designed and implemented backend services and reusable platform components
-* Built and maintained REST API integrations for distributed systems
-* Developed data processing pipelines and automation workflows
-* Applied functional programming principles to create scalable, maintainable software
-* Collaborated through Git, code reviews, debugging, testing, and Agile development practices
 
 
 <br>
