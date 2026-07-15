@@ -112,30 +112,6 @@
 
 
 
-<br><br>
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
-    width="100%"
-    alt="Portfolio Banner"
-    style="border-radius:18px;" 
-  />
-</a>
-
-</div>
-
-
 
 
 
@@ -187,10 +163,33 @@ Collaborated through Git, code reviews, debugging, testing, and Agile practices.
 </div>
 
 
+
+
 <br><br>
 
 
 
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
+    width="100%"
+    alt="Portfolio Banner"
+    style="border-radius:18px;" 
+  />
+</a>
+
+</div>
+
+
+
+
+
+<br><br>
 
 
 
