@@ -117,6 +117,37 @@
 
 
 
+<div align="center">
+
+## 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜 ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
+
+**Backend Engineering • Data Engineering • Applied Machine Learning**
+
+**Python • SQL • Java • C++ • Clojure**
+
+</div>
+
+---
+
+## 💼 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
+
+Contributed to backend systems, distributed integrations, and data-driven platform services within a product engineering environment using **Java**, **Clojure**, and **ClojureScript**.
+
+* Developed backend services and reusable platform components
+* Built and maintained REST API integrations for distributed systems
+* Implemented data processing pipelines and automation workflows
+* Applied functional programming principles to scalable, maintainable software
+* Collaborated through Git, code reviews, debugging, testing, and Agile development
+
+
+
+
+<br><br>
+
+
+
+
+
 
 
 <div align="center">
