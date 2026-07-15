@@ -35,7 +35,7 @@
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%2033.png"
-    width=100%"
+    width="100%"
     alt="Mihaela Koseva Banner"
   />
 </a>
