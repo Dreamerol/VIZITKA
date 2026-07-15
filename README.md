@@ -149,8 +149,8 @@ Engineered scalable software solutions using <b>Java</b>, <b>Clojure</b>, and <b
 Designed and implemented backend services and reusable platform components.<br>
 Built and maintained REST API integrations for distributed systems.<br>
 Developed data processing pipelines and automation workflows.<br>
-Applied functional programming principles to create scalable, maintainable software.<br>
-Collaborated through Git, code reviews, debugging, testing, and Agile development practices.
+Applied functional programming principles for scalable, maintainable software.<br>
+Collaborated through Git, code reviews, debugging, testing, and Agile practices.
 </h2>
 
 </div>
