@@ -121,13 +121,17 @@
 
 ## 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜 ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
 
-**Backend Engineering • Data Engineering • Applied Machine Learning**
+## **Backend Engineering • Data Engineering • Applied Machine Learning**
 
-**Python • SQL • Java • C++ • Clojure**
+## **Python • SQL • Java • C++ • Clojure**
 
 </div>
 
----
+
+
+<br><br>
+
+
 
 ## 💼 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 
