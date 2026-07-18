@@ -21,29 +21,6 @@
 
 
 
-https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_SWE_AI.png
-
-
-
-
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_SWE_AI.png"
-    width="100%"
-    alt="Mihaela Koseva SWE AI Banner"
-  />
-</a>
-
-</div>
-
-
-
-
 
 
 <br>
