@@ -142,7 +142,7 @@
 <div align="center">
 
   
-## ⚙️ [𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥](https://github.com/Dreamerol)
+## ⚙️ [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥](https://github.com/Dreamerol)
 
 <h3>
 Developed backend systems, distributed integrations, and data-driven platform services.<br>
