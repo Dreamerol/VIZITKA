@@ -119,30 +119,13 @@ Backend ∫ Data Engineering • Applied Machine Learning
 
 
 
-
-
-
-<div align="center">
-
-# 𝗦𝗪𝗘 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜
-
-## 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
-
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-</div>
-
-
-
-<br>
-
-
-
-
 <div align="center">
 
   
-## ⚙️ [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥](https://github.com/Dreamerol)
+## ⚙️ [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 @ 𝗙𝗠𝗜](https://github.com/Dreamerol)
+
+## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+
 
 <h3>
 Developed backend systems, distributed integrations, and data-driven platform services.<br>
