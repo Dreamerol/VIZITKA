@@ -132,10 +132,12 @@ Backend ∫ Data Engineering • Applied Machine Learning
 <div align="center">
 
 
+
 <h3>
-Developed backend systems, distributed integrations, and data-driven platform services.<br>
-Engineered scalable software solutions using <b>Java</b>, <b>Clojure</b>, and <b>ClojureScript</b>.
+Developed backend systems and distributed integrations for data-driven platforms.<br>
+Worked with <b>Java</b>, <b>Clojure</b>, <b>ClojureScript</b>, and <b>Python</b> to build scalable software solutions.
 </h3>
+
 
 <h3>
 Designed and implemented backend services and reusable platform components.<br>
