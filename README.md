@@ -535,17 +535,18 @@ width="320" height="220">
 
 
 
+
+
 <div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
-    alt="Vizitka"
-    width="100%"
-  />
-</a>
-
+  <a href="https://github.com/Dreamerol" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
+      width="100%"
+      alt="Mihaela Koseva Banner"
+    />
+  </a>
 </div>
+
 
 
 
