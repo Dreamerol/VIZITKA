@@ -158,12 +158,11 @@ Collaborated through Git, code reviews, debugging, testing, and Agile practices.
 
 
 
-
 <div align="center">
 
+## <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ MIHAELA KOSEVA ∫ 𝗦𝗪𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
 
 ## 𝟮𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
-
 
 </div>
 
