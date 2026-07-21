@@ -129,6 +129,8 @@ Backend ∫ Data Engineering • Applied Machine Learning
 
 
 
+<div align="center">
+
 
 <h3>
 Developed backend systems, distributed integrations, and data-driven platform services.<br>
