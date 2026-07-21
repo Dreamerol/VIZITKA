@@ -15,7 +15,7 @@
 
 
   <h1 align="center">
- Backend Engineering • Data Engineering • Applied ML
+Backend ∫ Data Engineering • Applied Machine Learning
   </h1>
 
 
