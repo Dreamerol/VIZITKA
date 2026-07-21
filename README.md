@@ -141,11 +141,8 @@
 
 <div align="center">
 
-<h2>
-⚙️ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗡 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
-</h2>
-
-
+  
+⚙️ 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
 
 <h3>
 Developed backend systems, distributed integrations, and data-driven platform services.<br>
