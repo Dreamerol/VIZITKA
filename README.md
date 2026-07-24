@@ -26,19 +26,17 @@ Backend ∫ Data Engineering • Applied Machine Learning
 <br>
 
 
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%2033.png"
-    width=100%"
-    alt="Mihaela Koseva Banner"
+    width="100%"
+    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
   />
 </a>
 
 </div>
-
 
 
 
@@ -524,7 +522,7 @@ width="320" height="220">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva Banner"
+      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
     />
   </a>
 </div>
