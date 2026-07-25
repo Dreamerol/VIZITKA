@@ -537,7 +537,58 @@ width="320" height="220">
 
 
 
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
+<br><br>
+
+
+
+
+
+
+<div align="center">
+
+<h1>
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+  ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗨𝗣𝗗𝗔𝗧𝗘
+</a>
+</h1>
+
+</div>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<div align="center">
+
+  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
+      width="100%"
+      alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
+    />
+  </a>
+
+</div>
+
+
+
+
+
+<br><br>
+
+
+
+
+
+<h2 align="center">⭐ Feel free to explore repositories and give a star if you find them interesting</h2>
 
 
 
@@ -566,6 +617,31 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 ---
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
+      width="100%"
+      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    />
+  </a>
+</div>
+
+
+
+
+
+
+<br><br>
+
+
+
 
 
 <table align="center" cellspacing="0" cellpadding="2">
