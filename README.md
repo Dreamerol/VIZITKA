@@ -510,32 +510,6 @@ width="320" height="220">
 
 
 
-<br><br>
-
-
-
-
-
-
-<div align="center">
-  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
-      width="100%"
-      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
-    />
-  </a>
-</div>
-
-
-
-
-<br><br>
-
-
-
-
-
 
 
 <br><br>
@@ -613,6 +587,9 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br><br>
+
+
+
 
 
 
