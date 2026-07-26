@@ -25,10 +25,8 @@
 
 
 
+
 <br>
-
-
-
 
 
 
@@ -37,9 +35,9 @@
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_111.png"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
+    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science, Portfolio"
   />
 </a>
 
@@ -50,12 +48,7 @@
 
 
 
-
-
 <br>
-
-
-
 
 
 
