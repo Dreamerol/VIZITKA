@@ -6,7 +6,6 @@
 
 
 
-
   
 <h1 align="center">
 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜
@@ -17,9 +16,9 @@
 
 
 
-  <h1 align="center">
-Backend ∫ Data Engineering • Machine Learning
-  </h1>
+  <h2 align="center">
+ Backend Engineering • Data Engineering • Applied Machine Learning
+  </h2>
 
 
 
