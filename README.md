@@ -4,11 +4,14 @@
 
 
 
-<div align="center">
 
-<h1 style="font-size:42px; line-height:1.2;">
-🟢 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜
+
+
+  
+<h1 align="center">
+⚛️ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫  𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
 </h1>
+
 
 </div>
 
