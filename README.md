@@ -79,19 +79,34 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Applied_ML-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
- 
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- Python - синьо като логото -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
 
+  <!-- SQL - златно/топло -->
+  <img src="https://img.shields.io/badge/SQL-D4AF37?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- C++ - синьо -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+  <!-- Java - червено -->
+  <img src="https://img.shields.io/badge/Java-BF3030?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+  <!-- Clojure - виолетово/синьо -->
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <!-- Applied ML - златно/оранжево -->
+  <img src="https://img.shields.io/badge/Applied_ML-E6A23C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <!-- Backend - тъмно циан -->
+  <img src="https://img.shields.io/badge/Backend-00A6C8?style=for-the-badge" />
+
+  <!-- APIs - светло синьо -->
+  <img src="https://img.shields.io/badge/APIs-4FC3F7?style=for-the-badge" />
+
+  <!-- Git - оранжево -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</p>
 
 </p>
 
