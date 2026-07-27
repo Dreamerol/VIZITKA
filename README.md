@@ -113,7 +113,7 @@ Collaborated through Git, code reviews, debugging, testing, and Agile practices.
 <div align="center">
 
 
-# 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗗𝗮𝘁𝗮 & 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+# 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗔𝗜 • 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 </div>
 
