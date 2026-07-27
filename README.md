@@ -1,20 +1,16 @@
 
-
-
 <div align="center">
 
-<h1 style="font-size:42px; line-height:1.2;">
-𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+<h1>
+💻 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
 </h1>
 
-</div>
+<h1>
+<a href="https://www.uni-sofia.bg" target="_blank">
+𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
+</a>
+</h1>
 
-
-
-
-<h2 align="center">
-  Data & Software Engineer • Applied ML ∫ Data → Systems
-</h2>
 
 </div>
 
@@ -90,8 +86,6 @@
 
 
 # <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
-
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
 
 </div>
