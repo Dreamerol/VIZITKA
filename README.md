@@ -239,6 +239,9 @@ width="320" height="220">
 
 
 
+
+
+
 <br><br><br>
 
 
@@ -247,20 +250,63 @@ width="320" height="220">
 
 
 
+<div align="center">
+
+# 📊 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 
+
+# ∫ Data → Systems → Insights 
+
+</div>
 
 
- 
 
- <h2 align="center"> 
+
+
+
+<br><br>
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
+
+
+
+<br>
+
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
+
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+<h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
  </a>
 </h2>
   
 
-
 <br>
-
 
 
 <p align="center">
@@ -430,6 +476,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br><br><br>
+
 
 
 
