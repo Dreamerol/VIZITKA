@@ -79,14 +79,18 @@
 
 <p align="center"><p align="center">
 
+
+
+<p align="center">
+
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-2F6DB5?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Clojure-5E81D8?style=for-the-badge&logo=clojure&logoColor=white" />
 
   <!-- Data -->
-  <img src="https://img.shields.io/badge/SQL-C5A227?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Applied_ML-D6A33A?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4A79B8?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied_ML-5B8DBE?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
   <!-- Engineering -->
   <img src="https://img.shields.io/badge/Java-5F6B7A?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -95,7 +99,6 @@
   <img src="https://img.shields.io/badge/Git-5F6B7A?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
-
 
 
 </div>
