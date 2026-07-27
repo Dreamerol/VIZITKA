@@ -13,15 +13,6 @@
 
 
 <h2 align="center">
-  <a href="https://www.uni-sofia.bg" target="_blank">
-    𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
-  </a>
-</h2>
-
-
-
-
-<h2 align="center">
   Data & Software Engineer • Applied ML ∫ Data → Systems ✨
 </h2>
 
