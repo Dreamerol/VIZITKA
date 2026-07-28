@@ -491,7 +491,7 @@ width="320" height="220">
 
 
 
-<br><br>
+<br><br><br><br>
 
 
 
@@ -516,7 +516,7 @@ alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 
 
 
-<br><br><br><br>
+<br><br>
 
 
 
@@ -552,7 +552,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
