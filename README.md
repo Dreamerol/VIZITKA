@@ -89,11 +89,11 @@
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
 
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
-    width="100%"
-    alt="Mihaela Koseva - Software Engineer, AI Engineer, Data Science, Tech Stack"
-  />
+<img 
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH_STACK_333.png"
+width="100%"
+alt="Mihaela Koseva - Software Engineer, AI Engineer, Data Science, Tech Stack"
+/>
 
 </a>
 
