@@ -85,7 +85,7 @@
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
@@ -131,7 +131,7 @@ Collaborated through Git, code reviews, debugging, testing, and Agile practices.
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
