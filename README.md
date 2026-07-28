@@ -291,31 +291,6 @@ width="320" height="220">
 
 
 
-<br>
-
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
-    width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
-  />
-</a>
-
-</div>
-
-
-
-
-
-
 <br><br><br><br>
 
 
