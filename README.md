@@ -495,13 +495,6 @@ width="320" height="220">
 
 
 
-
-
-
-<br><br>
-
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
