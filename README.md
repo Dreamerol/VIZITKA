@@ -488,7 +488,7 @@ width="320" height="220">
 
 
 
-<br><br>
+<br><br><br><br>
 
 
 
@@ -519,7 +519,7 @@ alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 
 
 
-<br><br><br><br>
+<br><br>
 
 
 
