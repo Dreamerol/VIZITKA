@@ -274,6 +274,10 @@ width="320" height="220">
 
 
 
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
+
+
+<br>
 
 
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
@@ -281,12 +285,6 @@ width="320" height="220">
 
 
 <br>
-
-
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
-
-
 
 
 
