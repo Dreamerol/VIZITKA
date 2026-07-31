@@ -1,21 +1,16 @@
 
 
-
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_RESUME.png"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
   />
 </a>
 
 </div>
-
-
 
 
 
@@ -61,13 +56,14 @@
 
 
 
+
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
   />
 </a>
 
@@ -316,7 +312,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol">
@@ -324,15 +319,12 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
     width="100%"
     loading="lazy"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL, Portfolio"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Portfolio"
     style="border-radius:18px;" 
   />
 </a>
 
 </div>
-
-
-
 
 
 
@@ -346,6 +338,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 ---
+
 
 
 
