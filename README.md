@@ -102,23 +102,6 @@
 
 
 
-<h3>
-Developed backend systems and distributed integrations for data-driven platforms.<br>
-Worked with <b>Java</b>, <b>Clojure</b>, <b>ClojureScript</b>, and <b>Python</b> to build scalable software solutions.
-</h3>
-
-
-<h3>
-Designed and implemented backend services and reusable platform components.<br>
-Built and maintained REST API integrations for distributed systems.<br>
-Developed data processing pipelines and automation workflows.<br><br>
-  
-Applied functional programming principles for scalable, maintainable software.<br>
-Collaborated through Git, code reviews, debugging, testing, and Agile practices.
-</h3>
-
-</div>
-
 
 
 
