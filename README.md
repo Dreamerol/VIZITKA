@@ -84,6 +84,101 @@
 
 
 
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+
+</a>
+
+</div>
+
+
+
+
+
+<br><br>
+<br>
+
+
+
+
+
+
+<div align="center">
+
+# <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>  
+
+# <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
+
+# ∫ Data → Systems
+
+</div>
+
+
+
+
+<br>
+
+
+
+
+
+<div align="center">
+
+
+
+
+
+
+
+<h3>
+Developed backend systems and distributed integrations for data-driven platforms.<br>
+Worked with <b>Java</b>, <b>Clojure</b>, <b>ClojureScript</b>, and <b>Python</b> to build scalable software solutions.
+</h3>
+
+
+<h3>
+Designed and implemented backend services and reusable platform components.<br>
+Built and maintained REST API integrations for distributed systems.<br>
+Developed data processing pipelines and automation workflows.<br><br>
+  
+Applied functional programming principles for scalable, maintainable software.<br>
+Collaborated through Git, code reviews, debugging, testing, and Agile practices.
+</h3>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br>
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 
