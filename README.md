@@ -22,12 +22,6 @@
 
 
 
-
-<br>
-
-
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
@@ -43,6 +37,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </div>
 
 
+
+
+
+---
 
 
 
