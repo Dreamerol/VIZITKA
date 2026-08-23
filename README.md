@@ -3,6 +3,15 @@
 
 
 
+<div align="center">
+  
+# 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 & 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜/𝗠𝗟
+
+</div>
+
+
+
+
 
 <div align="center">
 
@@ -63,15 +72,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 ---
 
-
-
-
-
-<div align="center">
-  
-# 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 & 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜/𝗠𝗟
-
-</div>
 
 
 
