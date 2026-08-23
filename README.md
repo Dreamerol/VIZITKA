@@ -32,7 +32,7 @@
 <img
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
 width="100%"
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), SMG(СМГ), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, SMG(СМГ)"
+alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Python • C++ • Java • SQL, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ), Sofia"
 />
 
 </a>
