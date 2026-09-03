@@ -150,7 +150,7 @@ Integrated AI capabilities into software platforms through ML model development,
 <div align="center">
 
 
-# ✅ <a href="https://github.com/Dreamerol/RESUME">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
+# ✅ <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
 
 
 </div>
