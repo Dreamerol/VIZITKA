@@ -496,11 +496,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
 
-<td>
-<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
-<img src="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • GitHub: Dreamerol • github.com/Dreamerol • LinkedIn: Mihaela Koseva • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева)">
-</a>
-</td>
+
 
 
 <td>
