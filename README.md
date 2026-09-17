@@ -345,8 +345,59 @@ width="320" height="220">
 
 
 
+<br><br><br><br>
 
-<br><br><br>
+
+
+
+
+
+
+<div align="center">
+
+<h1>
+⚛️  <a
+  href="https://github.com/Dreamerol/AI-STUDIO"
+  title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia">𝗔𝗜 𝗦𝗧𝗨𝗗𝗜𝗢</h1>
+
+</div>
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+<div align="center">
+
+  <a href="https://github.com/Dreamerol/AI-STUDIO">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
+      width="100%"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia" />
+  </a>
+
+</div>
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
 
 
 
