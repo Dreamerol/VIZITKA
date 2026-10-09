@@ -527,7 +527,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 <div align="center">
 
-<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
+<a href="https://github.com/Dreamerol/RESUME">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA.jpg"
     width="100%"
